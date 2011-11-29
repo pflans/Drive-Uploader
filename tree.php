@@ -5,7 +5,7 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>MagicBullet Inventory Alpha</title>
+	<title>Inventory</title>
 	<script type="text/javascript" src="../_lib/jquery.js"></script>
 	<script type="text/javascript" src="../_lib/jquery.cookie.js"></script>
 	<script type="text/javascript" src="../_lib/jquery.hotkeys.js"></script>
