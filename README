@@ -1,0 +1,10 @@
+Drive Uploader
+
+This script requires the use of jsTree (http://www.jstree.com/) a javascript library that displays 
+XML data in a tree structure with support for icons, search and javascript controls. Using the script,
+which uploads XML files of the structure of drives to a folder on a FTP, the jsTree can reiterate 
+through this folder using a few simple bits of PHP.
+
+This system makes searching for files across several different offline drives much easier but the 
+downside is that the rendering of the XML upon every new reload of the page can become slow with many
+large drives (large XML files) being rendered.
