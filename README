@@ -1,5 +1,17 @@
-The media company I worked for had a large library of external hard drives which were used as storage for projects in production as well as an archive of older projects. This system was low price but problems arose when footage from a past project was requested and we have to search across multiple disconnected drives to find it. Physically unplugging these drives, swapping out hard drive sleds and remounting them felt completely inefficient and tedious, so I developed a better way.
+The media company I worked for had a large library of external hard drives which were used as 
+storage for projects in production as well as an archive of older projects. This system was 
+low price but problems arose when footage from a past project was requested and we have to 
+search across multiple disconnected drives to find it. Physically unplugging these drives, 
+swapping out hard drive sleds and remounting them felt completely inefficient and tedious, 
+so I developed a better way.
 
-I wrote a python script with a very simple GUI that lets the user select a drive to “map”.  This script then forms a XML document with the drive structure and uploads it via FTP.  A small php script on the server displays all the XML files uploaded by the script through the use of jsTree, a great javascript tree library. Now the entire library is searchable and updated so files can be found quickly.
+I wrote a python script with a very simple GUI that lets the user select a drive to “map”.  
+This script then forms a XML document with the drive structure and uploads it via FTP.  
+A small php script on the server displays all the XML files uploaded by the script through 
+the use of jsTree, a great javascript tree library. Now the entire library is searchable 
+and updated so files can be found quickly.
 
-I’m extremely proud of it because people actually use something I wrote and it makes their life easier. I’m also proud of this small project is because it increasing efficiently, solved a problem that everyone else deemed a “necessary evil” and helped the company save hours of time.
+I’m extremely proud of it because people actually use something I wrote and it makes their 
+life easier. I’m also proud of this small project is because it increasing efficiently, 
+solved a problem that everyone else deemed a “necessary evil” and helped the company 
+save hours of time.
