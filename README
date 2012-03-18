@@ -10,8 +10,3 @@ This script then forms a XML document with the drive structure and uploads it vi
 A small php script on the server displays all the XML files uploaded by the script through 
 the use of jsTree, a great javascript tree library. Now the entire library is searchable 
 and updated so files can be found quickly.
-
-I’m proud of it because people actually use something I created and it makes their 
-life easier. I’m also proud of this project because it increased efficiency, 
-solved a problem that everyone else deemed a “necessary evil” and helped the company 
-save hours of time.
